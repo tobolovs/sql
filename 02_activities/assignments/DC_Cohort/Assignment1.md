@@ -209,5 +209,12 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+
+Databases and data systems are often perceived as neutral tools designed to organize information and/or improve efficiency in daily processes. However, their design reflects the values, assumptions, and social expectations of the people who create them. As discussed in Qadri's article "When Databases Get to Define Family" (2021), Pakistan's national identification database assumes that every individual belongs to a family consisting of two married parents. This assumption can exclude individuals with different family structures, limiting their access to essential services and recognition of their identity. This is a form of inequality and marginalization of individuals leading to the unfair advantage of those whose parents are married compared to those with unmarried parents.
+
+Similar issues exist in everyday digital systems. For example, social media platforms such as Instagram and TikTok use algorithms to determine which content users see based on their interests, activity, and engagement. Although these algorithms are designed to personalize the user experience, they can reinforce existing opinions, spread misinformation, and limit exposure to other perspectives. This raises questions about fairness and how technology influences the information available to different groups of people.
+
+Another example is employment databases and automated recruitment systems. These systems may use predefined selection criteria and historical hiring data to evaluate candidates. If historical data reflects existing gender or social inequalities, automated systems may unintentionally reproduce these biases and disadvantage certain applicants.
+
+These examples demonstrate that databases and data systems are not entirely neutral. Even small technical decisions, such as which categories are available in a database or which criteria an algorithm prioritizes, can have significant social consequences. I believe database designers should prioritize fairness, inclusivity, transparency, and flexibility. Digital systems should accommodate diverse identities, backgrounds, and circumstances rather than forcing individuals to fit predefined social expectations. Ultimately, technology should reflect the complexity of society rather than reinforce existing inequalities.
 ```
