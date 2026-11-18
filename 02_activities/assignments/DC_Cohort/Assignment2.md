@@ -57,7 +57,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Depending on whether the store wants to preserve address history or not it can implement either Slowly Changing Dimension (SCD) Type 2 or Type 1. In the SCD Type 2 architecture, a new record will be inserted when the customer changes their address rather than overwriting the existing one so the store is able to track address changes over time i.e. inserts new records to preserve historical changes over time. In the SCD Type 1 architecture, the existing address will be overwritten with the updated address of the customer so the previous address is not retained and the store cannot track changes over time i.e. overwrites existing records without retaining historical changes.
 ```
 
 ***
